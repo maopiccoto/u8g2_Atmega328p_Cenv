@@ -6,7 +6,7 @@ This repositroy contains the main.c file coded in Atmel Studio 7 for the impleme
 
 This particular implementation is ATmega328p @8Mhz(No Crystal) and Nokia5110 based.
 
-![alt text](https://m.popkey.co/f4c883/bgXpK.gif)
+## But Why?
 
 Because I found migrating projects from arduino to AS7 can optimize flash and RAM usage, apart from other benefits...and is cool :-)
 
